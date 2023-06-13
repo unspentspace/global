@@ -1,6 +1,6 @@
-# global
+# Global
 
-## 👋 Hola, Bounjour, Hello!
+## 👋 Hola, Bounjour, 你好, Hello!
 Welcome to the global repository. This is for global ideas, declarations and conversations.
 
 ## 📍 Claim a location
